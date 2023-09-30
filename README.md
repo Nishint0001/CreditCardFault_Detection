@@ -82,11 +82,8 @@ To use the credit card fraud detection tool, follow these steps:
 
 - [Nishint Goyal (Nishint0001)](https://github.com/Nishint0001) - Made significant contributions to the project.
 
-We would like to express our gratitude to [Nishint Goyal (Nishint0001)](https://github.com/Nishint0001) for their valuable contributions to this project.
+#We would like to express our gratitude to [Nishint Goyal (Nishint0001)](https://github.com/Nishint0001) for their valuable contributions to this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
