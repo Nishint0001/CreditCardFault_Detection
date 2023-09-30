@@ -6,6 +6,8 @@
 
 An open-source project for detecting credit card fraud using machine learning techniques.
 
+![Image](https://miro.medium.com/v2/resize:fit:601/1*xSqK9iS7nZAaB-Sdwiwjow.png)
+
 ## Table of Contents
 
 - [About](#about)
